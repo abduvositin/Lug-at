@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/item_layout"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="8dp"
+    android:orientation="vertical"
+    android:paddingHorizontal="10dp"
+    android:paddingVertical="0dp">
+
+    <TextView
+        android:id="@+id/textEnglish"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/apple"
+        android:textColor="@color/black"
+        android:textSize="16sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textUzbek"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/olma"
+        android:textColor="@color/black"
+        android:textSize="14sp" />
+
+    <View
+        android:layout_width="280dp"
+        android:layout_gravity="center"
+        android:layout_height="0.001dp"
+        android:layout_marginTop="4dp"
+        android:background="#EEEEEE" />
+
+</LinearLayout>

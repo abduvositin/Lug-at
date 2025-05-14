@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Lug\'at</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="lug_atlarim">Lug\'atlarim</string>
+    <string name="search">Search</string>
+    <string name="uz">UZ</string>
+    <string name="yodlanmagan">Yodlanmagan</string>
+    <string name="yodlangan">Yodlangan</string>
+    <string name="new_word">Yangi so\'z qo\'shish</string>
+    <string name="english">English</string>
+    <string name="uzbek">Uzbek</string>
+    <string name="example_misol">Example / Misol</string>
+    <string name="noun_verb">Noun / Verb</string>
+    <string name="bekor_qilish">Bekor qilish</string>
+    <string name="so_z_qo_shish">So\'z qo\'shish</string>
+    <string name="exit">Exit</string>
+    <string name="natiajalar_topilmadi">Natiajalar topilmadi</string>
+    <string name="edit">Edit</string>
+    <string name="speak">Speak</string>
+    <string name="part">part</string>
+    <string name="example">Example</string>
+    <string name="hozircha_yodlangan_so_zlar_yo_q">Hozircha yodlangan so‘zlar yo‘q</string>
+    <string name="hozircha_yodlanmagan_so_zlar_yo_q">Hozircha yodlanmagan so‘zlar yo‘q</string>
+    <string name="sozlamalar">Sozlamalar</string>
+    <string name="hammasi">Hammasi</string>
+    <string name="ingilizchasi">Ingilizchasi</string>
+    <string name="uzbekchasi">Uzbekchasi</string>
+    <string name="apple">Apple</string>
+    <string name="olma">Olma</string>
+    <string name="salom">Salom</string>
+</resources>
